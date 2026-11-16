@@ -1,0 +1,6 @@
+{
+  "name": "mergegate-demo",
+  "private": true,
+  "type": "module",
+  "description": "A tiny shop backend whose docs state values from the code — and MergeGate keeping them true."
+}
